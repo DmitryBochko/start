@@ -7,6 +7,7 @@ class QueryBuilder
     /**
      * @var mysqli
      */
+
     private $db;
 
     public function __construct($db)
