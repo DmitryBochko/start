@@ -1,0 +1,9 @@
+{
+  "autoload":{
+    "files":[ "core/Request.php",
+              "core/Router.php",
+              "core/db/QueryBuilder.php",
+              "core/db/Connector.php"
+    ]
+  }
+}
